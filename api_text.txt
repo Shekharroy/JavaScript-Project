@@ -1,0 +1,1 @@
+https://api.openweathermap.org/data/2.5/weather?q=motihari&appid=3042df0b1216c575fcbeec74d5d19db3&unit=metric
